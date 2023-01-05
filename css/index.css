@@ -74,6 +74,12 @@ section {
     background-position: center;
 }
 
+#section6 {
+    background-image: url('../img/img6.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
 .text-container {
     display: flex;
     flex-direction: column;
